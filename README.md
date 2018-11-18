@@ -1,4 +1,4 @@
-# PersonalNotes
+# MyRasp as a WebServer
 
 1. Follow the Securing your Raspberry blog:
 https://www.raspberrypi.org/documentation/configuration/security.md
